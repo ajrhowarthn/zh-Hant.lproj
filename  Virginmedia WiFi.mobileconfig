@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>w2vQkds7hvxw</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5F2C83F8-2997-4309-AC47-DF94A551B861</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5F2C83F8-2997-4309-AC47-DF94A551B861</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string> VM3803882</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+			<key>_UsingHotspot20</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Arthur12</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.D8F7C179-0BF1-4B2B-82EA-A8048C2E98F2</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>D8F7C179-0BF1-4B2B-82EA-A8048C2E98F2</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ajrhowarth@virginmedia.com</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+			<key>_UsingHotspot20</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Press "Install" to get WiFi access.</string>
+	<key>PayloadDisplayName</key>
+	<string> Virginmedia WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.CoreSimulator.SimRuntime.iOS-12-1" : [       {.034DD76E-AAFB-4997-9D76-6F212EEC9DA9</string>
+	<key>PayloadOrganization</key>
+	<string>VirginMedia</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>034DD76E-AAFB-4997-9D76-6F212EEC9DA9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
